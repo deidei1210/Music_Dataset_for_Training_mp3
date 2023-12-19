@@ -1,0 +1,2 @@
+# Music_Dataset_for_Training_mp3
+存储了一些MP3音乐，可以用作模型训练
